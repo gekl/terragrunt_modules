@@ -1,10 +1,6 @@
 # Token variable
 variable "hcloud_token" {}
 
-#variable "hcloud_token" {
-#  description = "hcloud_token"
-#}
-
 # Ssh key fingerprint variable
 variable "hcloud_ssh_key_fingerprint" {}
 
