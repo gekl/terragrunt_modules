@@ -1,0 +1,2 @@
+hcloud_token               = "API_TOKEN"
+hcloud_ssh_key_fingerprint = "KEY_FINGERPRINt"
